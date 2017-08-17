@@ -5,7 +5,7 @@ For papers, go [here](http://christophermeiklejohn.com/distributed/systems/2013/
 
 # Consensus
 - [Paxos](http://the-paper-trail.org/blog/consensus-protocols-paxos/)
-- [Multi-Paxox](http://amberonrails.com/paxosmulti-paxos-algorithm/)
+- [Multi-Paxos](http://amberonrails.com/paxosmulti-paxos-algorithm/)
 
 # Synchronization
 [There is No Now](http://queue.acm.org/detail.cfm?id=2745385)
