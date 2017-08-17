@@ -1,7 +1,10 @@
-# readings-in-dist-sys
-Readings in Distributed Systems (blog posts/articles, not papers).
+# Readings in Distributed Systems
+(blog posts/articles, not papers).
 
 For papers, go [here](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html).
+
+# Data
+- [You can't sacrifice Partition Tolerance](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
 
 # Consensus
 - [Paxos](http://the-paper-trail.org/blog/consensus-protocols-paxos/)
