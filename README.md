@@ -5,6 +5,7 @@ For papers, go [here](http://christophermeiklejohn.com/distributed/systems/2013/
 
 # Data
 - [You can't sacrifice Partition Tolerance](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
+- [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 
 # Consensus
 - [Paxos](http://the-paper-trail.org/blog/consensus-protocols-paxos/)
